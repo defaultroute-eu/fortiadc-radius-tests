@@ -1,1 +1,0 @@
-# fortiadc-radius-tests
